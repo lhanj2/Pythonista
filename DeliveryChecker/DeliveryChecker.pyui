@@ -1,0 +1,39 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 6}, {288, 380}}",
+        "class" : "TableView",
+        "attributes" : {
+          "uuid" : "6132B9ED-BE88-4688-A397-D3361CF30E81",
+          "data_source_action" : "tableview_shipping_did_select",
+          "background_color" : "RGBA(1.0, 1.0, 1.0, 1.0)",
+          "frame" : "{{38, 130}, {200, 200}}",
+          "data_source_items" : "대한통운\n우체국택배\n한진택배\n롯데택배\n로젠택배\n홈픽\nGS25편의점택배\nCU 편의점택배\n경동택배\n대신택배\n일양로지스",
+          "data_source_number_of_lines" : 1,
+          "data_source_delete_enabled" : false,
+          "data_source_font_size" : 18,
+          "row_height" : 44,
+          "class" : "TableView",
+          "name" : "tableview_shipping",
+          "flex" : "WH"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {300, 386}}",
+    "class" : "View",
+    "attributes" : {
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "name" : "",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
